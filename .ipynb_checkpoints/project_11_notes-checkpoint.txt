@@ -1,0 +1,14 @@
+- selenium is a framework that allows us to interact with HTML elements from any website
+- you have to install seleniunm via pip and something called chrome driver
+- pip stands for package install python
+- pip comes with python
+- you need to download chrome web driver
+https://sites.google.com/chromium.org/driver/?pli=1
+- your chrome web driver and google chrome version need to be the same
+- in finder you can go to view in top bar and then hit show path to get the path
+- yt video series you used
+https://www.youtube.com/watch?v=b5jt2bhSeXs
+
+commands
+- to access elements in html, click on any element, right click and hit inspect element
+pip install selenium
